@@ -1,4 +1,3 @@
-![](https://travis-ci.org/jokergoo/circlize.svg?branch=master)
 
 ## circlize: circular visualization in R
 
